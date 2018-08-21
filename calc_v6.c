@@ -10,7 +10,7 @@
  *       Revision:  none
  *       Compiler:  gcc
  *
- *         Author:  Francisco Helder (FHC), helderhdw@gmail.com
+ *         Author:  Mateus Sousa, mateuseng_ec@alu.ufc.br
  *   Organization:  UFC-Quixadá
  *
  * =====================================================================================
